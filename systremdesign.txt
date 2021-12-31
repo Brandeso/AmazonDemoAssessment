@@ -1,0 +1,3 @@
+Design a system to sell and buy tickets for a cinema
+
+Ref: https://www.youtube.com/watch?v=NtMvNh0WFVM
